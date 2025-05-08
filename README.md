@@ -16,10 +16,9 @@
 ---
 
 ## 项目截图
-
-> 你可以在这里插入你自己的项目截图
-> 例如：
-> ![美食抽取系统截图](./screenshot.png)
+![](https://img.yxskj.cn/tutoublog/2025/05/20250508101327952.png)
+![](https://img.yxskj.cn/tutoublog/2025/05/20250508101400277.png)
+![](https://img.yxskj.cn/tutoublog/2025/05/20250508101424193.png)
 
 ---
 
