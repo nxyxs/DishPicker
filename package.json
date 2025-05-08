@@ -1,0 +1,24 @@
+{
+  "name": "suiji",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "node server.cjs",
+    "dev": "concurrently \"npm run serve\" \"npm run server\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^1.4.5-lts.2",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.2",
+    "concurrently": "^8.2.2",
+    "vite": "^6.3.1"
+  }
+}
